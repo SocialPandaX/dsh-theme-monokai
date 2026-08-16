@@ -13,7 +13,7 @@ An **unofficial Monokai-inspired** dark theme for the [DeepSeek Harness](https:/
 ## Install
 
 ```bash
-git clone https://github.com/socialpanda3578/dsh-theme-monokai.git ~/dsh-theme-monokai
+git clone https://github.com/SocialPandaX/dsh-theme-monokai.git ~/dsh-theme-monokai
 dsh plugin --profile web add -w ~/dsh-theme-monokai
 ```
 
