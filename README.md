@@ -36,4 +36,4 @@ Restart `dsh web`.
 
 ## License
 
-MIT. This is a community theme; the color scheme is inspired by Monokai.
+MIT
