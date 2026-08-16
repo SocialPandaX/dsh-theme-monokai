@@ -1,0 +1,4 @@
+# dsh-theme-monokai bundle patch: insert the browser theme plugin entry.
+- insert:
+    - id: dsh-theme-monokai
+      name: 'dsh-theme-monokai'
