@@ -2,9 +2,6 @@
 
 An **unofficial Monokai-inspired** dark theme for the [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) (dsh) Web UI, with a yellow accent variant and matching Shiki syntax colors.
 
-> Not affiliated with, endorsed by, or connected to Monokai / monokai.pro.
-> This project does not include or redistribute any Monokai Pro extension assets or icon pack.
-
 ## Features
 
 - Monokai-inspired dark palette for the dsh Web UI
@@ -16,7 +13,7 @@ An **unofficial Monokai-inspired** dark theme for the [DeepSeek Harness](https:/
 ## Install
 
 ```bash
-git clone https://github.com/<YOUR_GITHUB_USER>/dsh-theme-monokai.git ~/dsh-theme-monokai
+git clone https://github.com/socialpanda3578/dsh-theme-monokai.git ~/dsh-theme-monokai
 dsh plugin --profile web add -w ~/dsh-theme-monokai
 ```
 
