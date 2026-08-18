@@ -10,9 +10,9 @@ An **unofficial Monokai-inspired** dark theme for the [DeepSeek Harness](https:/
 - Matching Shiki syntax colors for code blocks
 - Reverts cleanly to dsh's built-in Light / Dark / System
 
-![1.png](assets\1.png)
+![1.png](.\assets\1.png)
 
-![2.png](assets\2.png)
+![2.png](.\assets\2.png)
 
 ## Install
 
