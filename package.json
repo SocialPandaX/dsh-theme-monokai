@@ -1,6 +1,6 @@
 {
   "name": "dsh-theme-monokai",
-  "version": "0.3.0",
+  "version": "0.2.1",
   "description": "Unofficial Monokai-inspired color theme for the DeepSeek Harness (dsh) Web UI with matching Shiki syntax colors.",
   "license": "MIT",
   "type": "module",
